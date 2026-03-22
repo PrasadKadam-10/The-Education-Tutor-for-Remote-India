@@ -35,25 +35,26 @@ VidyaSathi is an AI-powered educational web application designed to support Maha
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<p align="center">
+  <img src="https://img.shields.io/badge/FRONTEND-REACT_18-61DAFB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-TYPESCRIPT-3178C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BUILD_TOOL-VITE-646CFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STYLING-TAILWIND_CSS-38B2AC?style=for-the-badge"/>
+</p>
 
-* React 18
-* TypeScript
-* Vite
-* Tailwind CSS
-* shadcn/ui + Radix UI
+<p align="center">
+  <img src="https://img.shields.io/badge/UI-SHADCN_UI-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-RADIX_UI-161618?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ANIMATION-FRAMER_MOTION-FF0055?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CHARTS-RECHARTS-FF6384?style=for-the-badge"/>
+</p>
 
-**Libraries & Tools**
-
-* Framer Motion (animations)
-* Recharts (data visualization)
-* React Router (routing)
-* React Query (data handling)
-* Lucide React (icons)
-
-**Backend**
-
-* Database integration for AI and textbook retrieval
+<p align="center">
+  <img src="https://img.shields.io/badge/ROUTING-REACT_ROUTER-CA4245?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA-REACT_QUERY-FF4154?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ICONS-LUCIDE_REACT-F56565?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BACKEND-DATABASE_AI_RETRIEVAL-green?style=for-the-badge"/>
+</p>
 
 ---
 
