@@ -35,26 +35,24 @@ VidyaSathi is an AI-powered educational web application designed to support Maha
 
 ## 🛠️ Tech Stack
 <p align="center">
+  <img src="https://img.shields.io/badge/FRONTEND-REACT_18-61DAFB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-TYPESCRIPT-3178C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BUILD_TOOL-VITE-646CFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STYLING-TAILWIND_CSS-38B2AC?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/React-18-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/UI-SHADCN_UI-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-RADIX_UI-161618?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ANIMATION-FRAMER_MOTION-FF0055?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CHARTS-RECHARTS-FF6384?style=for-the-badge"/>
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer"/>
-<img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router"/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Lucide-Icons-F56565?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Database_AI_Retrieval-4CAF50?style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/ROUTING-REACT_ROUTER-CA4245?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA-REACT_QUERY-FF4154?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ICONS-LUCIDE_REACT-F56565?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BACKEND-DATABASE_AI_RETRIEVAL-green?style=for-the-badge"/>
 </p>
 ---
 
